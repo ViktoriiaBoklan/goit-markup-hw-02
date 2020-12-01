@@ -138,7 +138,7 @@ a {
 /*======END ABOUT======*/
 
 /*======OUR TEAM======*/
-.team-name {
+.team-list-title {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.1875;
@@ -147,7 +147,7 @@ a {
   color: var(--main-text-color);
 }
 
-.team-profession {
+.team-list-undertitle {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.1875;
